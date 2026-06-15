@@ -12,6 +12,6 @@ def load_reports(path_file):
         return []
 # Teste de execução local
 if __name__ == "__main__":
-    reports = load_reports('dataset.json')
+    reports = load_reports('../dados/dataset.json')
     if reports:
         print("Exemplo do primeiro relatório:", reports[0]['texto'])

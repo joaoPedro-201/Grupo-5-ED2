@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "modalidade": "Basquete",
+    "tipo": "tatico",
+    "atleta": "Fictício 1",
+    "texto": "O atleta apresenta desenvolvimento técnico consistente ao longo dos últimos seis meses, com ênfase na mecânica de arremesso e leitura de jogo na linha de três pontos. Nas sessões matinais a equipe técnica destacou melhora na cadência do salto e na estabilidade do core, o que tem refletido em maior eficácia em catch-and-shoot. Historicamente ele teve ajuste difícil na pré-temporada do ano anterior, quando a intensidade do treino elevou sintomas de fadiga muscular crônica, mas o volume foi readequado e houve resposta positiva. Em partidas chave houve episódios repetidos de transição defensiva lenta, sobretudo contra equipes com contra-ataque rápido; isso gera lacunas na defesa por zona. Em um lance específico contra a equipe X, às 03:12 do segundo quarto, o atleta posicionou-se mal no pick and roll e permitiu um corte direto à cesta, evidenciando necessidade de sincronização com o pivô. A análise de vídeo mostra padrão de deslocamento lateral insuficiente quando exigido closeout rápido. Em termos táticos seu posicionamento para rebotes ofensivos é proativo, porém sacrifica a cobertura de meia quadra. O jogador demonstra boa explosão muscular no garrafão, compensando envergadura mediana para a posição. A comissão técnica recomenda trabalhar leitura de jogo em situações de 4x4 e exercícios específicos de tempo de reação com estímulos visuais. Treinos recentes incluíram drills de recuperação pós-impacto e trabalho de resistência neuromuscular para reduzir risco de sobrecarga. A coordenação com o preparador físico melhorou a transição entre microciclos, reduzindo episódios de pico de fadiga. Precisa evoluir no posicionamento defensivo em closeouts e no timing de salto para bloquear tiros de alto arco. Avaliação tática final: peça importante para o esquema, porém com pontos críticos em transição defensiva e leitura em pick and roll que exigem intervenção focada."
+  },
+  {
+    "id": 2,
+    "modalidade": "Futebol",
+    "tipo": "medico",
+    "atleta": "Fictício 2",
+    "texto": "Atleta com histórico de lesão no ligamento cruzado anterior (LCA) do joelho direito há 18 meses, reparado cirurgicamente e com reabilitação supervisionada por equipe multidisciplinar. Exames recentes de ressonância magnética e avaliação isocinética mostraram assimetria de força quadríceps de aproximadamente 12%, com padrão de ativação muscular retardado em sprint máximo. Relata episódios intermitentes de dor patelofemoral em cargas excêntricas, especialmente após jogos com alta densidade de deslocamentos e mudanças de direção, sugerindo fadiga muscular localizada. A rotina de treino tem incluído trabalho de reforço excêntrico, propriocepção e treino de tempo de reação em treino de campo, com progressão gradual de cargas. Em avaliação de biomecânica de corrida foram observadas leve valgo dinâmico no membro afetado e alterações no padrão de aterrissagem após salto, o que pode aumentar risco de recidiva ou de lesões secundárias. Descrição detalhada de um episódio clínico: durante amistoso, ao 67º minuto, contato lateral com adversário provocou sensação de instabilidade que cedeu após 20 segundos, sem perda de função imediata; porém, nas 48 horas seguintes houve aumento de dor e rigidez, exigindo manejo anti-inflamatório e redução de carga. Exames funcionais sugerem necessidade de trabalho adicional de core e treino de aceleração-deceleração para minimizar déficits. Recomenda-se protocolo de fortalecimento específico, reteste isocinético em 6 semanas e reavaliação por imagem se sintomas persistirem. Considerar monitorização de carga de treino e intervenções de prevenção secundária, bem como análise de fadiga muscular crônica em microciclos intensos."
+  },
+  {
+    "id": 3,
+    "modalidade": "Vôlei",
+    "tipo": "misto",
+    "atleta": "Fictício 3",
+    "texto": "O levantador vem demonstrando evolução na leitura de jogo e na velocidade de decisão, com melhora percepível em jogo posicional e visão periférica para variações de levantamento. Treinos recentes focaram em situações de transição ofensiva e variação de tempos, sendo documentadas respostas favoráveis mas com inconsistências sob fadiga acumulada. Em partida decisiva há relato descritivo de uma sequência aos 2:14 do quinto set, quando o atleta executou uma combinação de levantamento rápido e segunda bola, confundindo bloqueio adversário; esse lance evidencia potencial técnico elevado. Do ponto de vista médico, há relato de episódios de tendinopatia no ombro esquerdo com rigidez matinal, sem sinais de ruptura, associado a sobrecarga por repetição de gesto técnico. Avaliação funcional detectou déficit de resistência muscular local e tempo de reação ligeiramente retardado em testes de resposta a estímulo sonoro. No plano tático, a transição defensiva após bloqueio tem sido lenta em alguns sets, causando superioridade numérica favorável ao adversário. A comissão de medicina do esporte recomenda ajuste de volume de arremessos de treino, trabalho excêntrico para tendão do manguito rotador e sessões de mobilidade específicas. Em termos de rotina, sessões de força em dias alternados e treino técnico coordenado com fisioterapeuta têm mostrado sinais de redução de sintomas. A recomendação conjunta é equilibrar carga e técnica, retestar força e propriocepção em 4 semanas e manter registro diário de dor e desempenho em treinos."
+  },
+  {
+    "id": 4,
+    "modalidade": "Tênis",
+    "tipo": "tatico",
+    "atleta": "Fictício 4",
+    "texto": "Atleta de porte médio com excelente leitura de jogo e variação técnica, evidenciada por uso estratégico de slice e dropshot em superfície rápida. Durante os últimos torneios, a capacidade de controlar a transição ofensiva para contra-ataque tem sido diferencial, especialmente ao explorar ângulos curtos na diagonal. Em treinos recentes houve ênfase em tempo de reação e velocidade de recuperação entre pontos, com intervalos condicionados que simularam estresse competitivo; os resultados mostraram melhora na resistência aeróbia específica. Descrição detalhada de um momento de jogo: no match point do segundo set, o jogador executou uma sequência de 7 trocas rápidas com variações de profundidade e velocidade, obrigando o adversário a deslocamentos laterais contínuos e revelando superioridade tática. Apesar de boa explosão muscular para arrancada, observa-se fadiga nos deslocamentos longitudinais após três sets longos. Em termos técnicos, o serviço apresenta inconsistência na fase de aceleração do braço dominante, correlacionada com perda de primeira bola em momentos de pressão. Recomendam-se drills de recuperação de posicionamento pós-ataque e treino específico de ritmo de serviço sob condicionamento. Avaliação final: jogador com alto repertório tático, necessita ajuste no controle de intensidade em sets longos para manter precisão em momentos decisivos."
+  },
+  {
+    "id": 5,
+    "modalidade": "MMA",
+    "tipo": "medico",
+    "atleta": "Fictício 5",
+    "texto": "Atleta peso leve com histórico de concussões leves documentadas em três eventos amadores, último há 9 meses, sem sequela neurológica aparente em avaliação clínica. Em exame neurológico de base não há déficits motores, porém relatou cefaleias pós-treino em dias de sparring intenso, com padrão tensional e episódios breves de tontura imediatamente após impactos. Avaliação cardiopulmonar com teste de esforço apresentou VO2 compatível com categoria e boa recuperação da frequência cardíaca, mas monitorização de repouso detectou variação da variabilidade cardíaca em microciclos de alto volume. No plano músculo-esquelético existem sinais de sobrecarga no ombro direito por padrões repetitivos de striking, com sensibilidade localizada no deltóide anterior e sinais de bursite subacromial incipiente. Uma descrição clínica pormenorizada: durante sessão de sparring controlado, após quatro sequências de clinch o atleta apresentou dor aguda no ombro ao tentar rotação externa sob carga, exigindo retirada do treino e aplicação de gelo. Recomendam-se imagem por ultrassom para avaliação tendinosa, redução temporária de sparring e trabalho de controle motor do manguito rotador. Protocolos de prevenção de concussão e monitorização neurocognitiva devem ser mantidos, com reteste neuropsicológico em 3 meses. Plano de retorno progressivo às lutas depende da resolução dos sintomas cervico-cranioencefálicos e da estabilização da lesão do ombro."
+  },
+  {
+    "id": 6,
+    "modalidade": "Natação",
+    "tipo": "misto",
+    "atleta": "Fictício 6",
+    "texto": "Nadador sênior com especialidade em prova de 200 metros medley, apresentando melhora técnica na fase de virada e na saída de bloco após ajustes posturais. A rotina de treino incluiu microciclos com alto volume aeróbio e sessões específicas de técnica, além de treino de força focado em cadeia posterior e core. Em uma sessão de avaliação biomecânica foi documentado detalhadamente o padrão de batimentos de pernada e a coordenação entre respiração e puxada, com pequenas discrepâncias que geram aumento de arrasto em fase de recuperação. Clinicamente há relato de dor lombar intermitente relacionada a sessões de força com flexão repetida do tronco, sem sinais de radiculopatia. Em provas recentes houve queda de performance no último 50 metros, sugerindo possível limitação de resistência anaeróbia alática ou falha na gestão de ritmo. A equipe de fisiologia propõe testes de limiar láctico e ajuste de pacing strategy, além de trabalho de core e mobilidade torácica para reduzir carga na lombar. Recomendam-se também treinos de tempo de reação para saída de bloco e monitorização do volume total para evitar fadiga muscular crônica. Considerar integração do treinador de força, fisioterapeuta e nutricionista para correção fina do microciclo e melhoria da manutenção de velocidade em finais de prova."
+  },
+  {
+    "id": 7,
+    "modalidade": "Futebol",
+    "tipo": "tatico",
+    "atleta": "Fictício 7",
+    "texto": "Meio-campista com boa leitura de jogo e capacidade de transição defensiva quando participa de bloqueios zonais; em jogos de maior intensidade apresenta redução no alcance das aberturas verticais. Nos treinamentos táticos houve foco em passes longos e visão de jogo, com exercícios de 6v6 que evidenciaram melhora na seleção de passe e no controle de bola sob pressão. Narrativa de lance: aos 28 minutos do segundo tempo em partida eliminatória, o atleta executou passe em profundidade que originou gol depois de duas trocas rápidas, demonstrando timing de passe e percepção espacial apurada. Contudo, sob fadiga aparece tendência a manter posição mais recuada, limitando contribuição ofensiva em fases de pressão alta. A análise de métricas mostra tempo de reação levemente superior à média da equipe em tomadas de decisão em transição, sugerindo necessidade de drills específicos. Fisicamente possui boa explosão muscular para arrancadas curtas, mas déficit em resistência intermitente em microciclos duros. Recomenda-se trabalho de endurance específico e simulações de jogo com alta densidade de trocas para aprimorar manutenção de performance. Em síntese, jogador taticamente valioso, requer ajustes de condicionamento para sustentar leitura de jogo em 90 minutos."
+  },
+  {
+    "id": 8,
+    "modalidade": "Basquete",
+    "tipo": "medico",
+    "atleta": "Fictício 8",
+    "texto": "Atleta com histórico de entorse de tornozelo recorrente no membro esquerdo, três episódios nos últimos 14 meses, com padrão de instabilidade funcional residual. Exame clínico revela hipertonicidade peroneal e déficit proprioceptivo em testes de equilíbrio unipodal, além de um ligeiro aumento do espaço articular em teste de gaveta anterior compatível com frouxidão ligamentar crônica. Em descrição detalhada de exame: durante teste funcional com mudança rápida de direção o atleta apresentou inversão súbita com dor localizada e edema moderado, exigindo protocolo RICE e avaliação por imagem. Treinos recentes incluíram trabalho de propriocepção, reforço de cadeia lateral e ajuste de calçado para suporte, com melhora relatada na sensação de confiança para mudanças de direção. Recomenda-se estudo por ultrassonografia dinâmica do tornozelo e considerar programa de longo prazo de fortalecimento focado em controle e na musculatura estabilizadora do pé e tornozelo. Monitorização de carga e prevenção de reagudização em microciclos intensos é mandatória. Retorno a competições sem episódios aumenta qualidade de jogo, mas risco de recidiva persiste se não houver correção do padrão motor."
+  },
+  {
+    "id": 9,
+    "modalidade": "Vôlei",
+    "tipo": "tatico",
+    "atleta": "Fictício 9",
+    "texto": "O oposto apresenta alto repertório de recursos ofensivos e capacidade de explorar mismatches na rede, especialmente em situações de saque curto e corredor aberto. Em treinos analíticos foi observado padrão robusto de batida com bom aproveitamento de torque rotacional, porém consistência reduzida quando exigido variação de velocidade. Descrição de lance tático: em set decisivo, o atleta executou três ataques consecutivos com mudança de tomada de tempo e ajuste de profundidade, forçando erro de posicionamento no bloqueio adversário e criando vantagem numérica. No plano defensivo sua participação em transição defensiva é aceitável, mas a velocidade de recuperação após bloqueio apresenta flutuações em sequências longas, exigindo trabalho de resistência específica. Treinos recentes incluiram simulações de bloqueio duplo e exercícios de tempo de reação para ajustar leitura de bloqueio. A comissão técnica recomenda periodização que privilegie recuperação intersetorial e drills para manutenção da precisão sob fadiga. Em conclusão, peça-chave no ataque, com necessidade de estabilizar a variação de velocidade e melhorar a manutenção de performance em sets extensos."
+  },
+  {
+    "id": 10,
+    "modalidade": "MMA",
+    "tipo": "misto",
+    "atleta": "Fictício 10",
+    "texto": "Atleta peso médio com excelente condicionamento aeróbio, mas com sinais de sobrecarga em região cervical e lombar após ciclos de sparring intensivo. Técnico relata bom controle de distância e leitura de jogo em trocas médias de golpe, com timing adequado para entradas de clinch e quedas estratégicas. Em detalhamento de episódio competitivo: no terceiro round de luta regional, após série de quedas e mudança tática, o atleta mostrou redução da explosão muscular nas trocas de níveis, necessitando mais tempo de ajuste entre sequências. Exames físicos detectaram compressão articular leve em C5-C6 sem sinais neurológicos significativos, e no plano músculo-esquelético há irritabilidade dos paravertebrais lombares em palpação profunda. A rotina de treino tem incluído trabalho de mobilidade espinhal, stabilização de core e sessões de recuperação ativa, com relato de alívio parcial dos sintomas. Taticamente, a transição ofensiva para ground-and-pound tem sido eficiente, mas perde-se precisão quando há fadiga acumulada, sugerindo ajuste de pacing e de intensidade nas sessões de resistência. Recomenda-se reavaliação por imagem se sintomas cervicais persistirem, manutenção de protocolos de prevenção de concussão e integração de fisioterapeuta para reequilíbrio muscular e otimização do retorno à competição."
+  },
+  {
+    "id": 11,
+    "modalidade": "Futebol",
+    "tipo": "misto",
+    "atleta": "Fictício 11",
+    "texto": "Meio-ponta destro com histórico de adaptações táticas recentes e boa leitura de jogo em situações de transição defensiva. Nos últimos microciclos a ênfase foi em aceleração-deceleração e drills de 1v1 com estímulos visuais para reduzir o tempo de reação. Em jogo amistoso detalhado, aos 54 minutos, fez uma diagonal curta seguida de inversão de jogo que desorganizou o bloco adversário e gerou chance de gol, porém apresentou queda de intensidade no sprint final.\n\nClinicamente relata episódios de câimbras musculares tardias após partidas com alta densidade de acelerações, compatíveis com fadiga muscular crônica e possíveis desequilíbrios eletrolíticos. Avaliação funcional mostrou assimetria de ativação do isquiotibial e deficit excêntrico em testes de força, sugerindo necessidade de trabalho excêntrico progressivo. A rotina de recuperação incluiu crioterapia localizada, suplementação orientada e ajuste do volume de treino para microciclos com jogos duplos.\n\nTaticamente é recurso para jogo de profundidade, mas deve melhorar a tomada de decisão sob pressão e a consistência em cobertura defensiva. Recomenda-se monitorização de cargas, reteste isocinético em 6 semanas e integração do preparador físico com a equipe clínica para prevenção de recidiva."
+  },
+  {
+    "id": 12,
+    "modalidade": "Basquete",
+    "tipo": "tatico",
+    "atleta": "Fictício 12",
+    "texto": "Ala-pivô versátil com boa leitura de jogo no espaçamento ofensivo e capacidade de executar pick and pop com eficiência. Treinos recentes focaram em transição defensiva e closeouts, com exercícios de reação a dispatch visual que melhoraram o timing de contestação de arremessos. Em partida de alto nível foi observado um lance aos 10:23 do quarto período onde, após um bloqueio mal executado, o atleta compensou com deslocamento lateral rápido e interceptou passe para contra-ataque.\n\nAnálises de vídeo mostram padrão de deslocamento frontal eficiente, porém lateralidade limitada quando exigido múltiplos fakes consecutivos. A mecânica do salto vertical é adequada, mas o tempo de reação em situações de rebote ofensivo oscila em função do desgaste no final dos jogos. O treinador tático recomenda sessões específicas de leitura de jogo em situações 5x5 realistas e exercícios de estabilidade lateral.\n\nFisicamente mantém explosão muscular ao longo da temporada, mas precisa aprimorar posicionamento defensivo em esquemas de zona. Implementar drills de sincronização com pivô e trabalho de resistência neuromuscular para reduzir flutuações de desempenho."
+  },
+  {
+    "id": 13,
+    "modalidade": "Vôlei",
+    "tipo": "medico",
+    "atleta": "Fictício 13",
+    "texto": "Ponteira com queixa recorrente de tensão na cadeia posterior do membro dominante, exacerbada em microciclos de saque e recepção intensos. Exame físico detectou redução de mobilidade de quadril e leve encurtamento de isquiotibiais que correlaciona com alteração do padrão de batida e aumento de arrasto corporal na fase aérea. Durante sessão clínica foi detalhado episódio de dor aguda após sequência de saltos repetidos, com resolução parcial após analgesia e redução de carga.\n\nImagem por ultrassom mostrou espessamento tendinoso sem ruptura franca, compatível com tendinopatia por sobrecarga. Testes funcionais apontaram déficit de resistência excêntrica e tempo de reação aumentado em estímulos visuais rápidos, fatores que podem predispor a novos episódios de lesão. O plano médico inclui programa excêntrico progressivo, terapia manual, reeducação de técnica de salto e reteste em 6 semanas.\n\nRecomenda-se integração entre técnico e fisioterapeuta para ajustar volume de saltos em sessões de treino e monitorizar sinais de fadiga muscular crônica. A prevenção secundária com fortalecimento de cadeia posterior e trabalho proprioceptivo deve ser priorizada."
+  },
+  {
+    "id": 14,
+    "modalidade": "Tênis",
+    "tipo": "misto",
+    "atleta": "Fictício 14",
+    "texto": "Jogador canhoto com estilo agressivo de fundo de quadra e boa variação tática de profundidade e spin. Nos últimos torneios trabalhou a consistência do saque e a capacidade de transição ofensiva após retorno curto, com sessões de treino que incluíram estímulos de tempo de reação e controle de ritmo. Num jogo chave foi observado um ponto onde, após 12 trocas, executou um drop curto seguido de recuperação de rede que definiu o set em tie-break.\n\nFisiologicamente relaciona relatos de fadiga localizada nos flexores do quadril em torneios com jogos seguidos, possivelmente associados a déficit de recuperação e alimentação inadequada entre partidas. Avaliações técnicas sugerem desequilíbrio entre fases de aceleração e desaceleração do braço de saque, o que aumenta variabilidade de primeira bola em momentos críticos. O staff propõe teste de limiar anaeróbio, ajuste do plano nutricional e trabalho de força pliométrica para a cadeia cinética superior.\n\nTaticamente excelente na manipulação de ritmo, deve melhorar gestão de energia em sequências longas de trocas. Recomenda-se periodização que inclua treino reconstrutivo e monitorização de sensação de esforço durante torneios."
+  },
+  {
+    "id": 15,
+    "modalidade": "MMA",
+    "tipo": "tatico",
+    "atleta": "Fictício 15",
+    "texto": "Peso pena com excelente leitura de distância e timing para strikes de média distância, explorando uppercuts em janelas de contra-ataque. Treinos técnicos enfatizaram transição defensiva entre striking e clinch, com drills de mudança de nível e renovações rápidas de base. Em combate regional houve uma sequência onde, após feint, o atleta criou abertura para queda tática que resultou em controle de posição no solo.\n\nAnálise de vídeo evidencia bom uso de angulação e variação de cadência, porém perda de explosão muscular nas trocas de nível ao longo do terceiro round. Em situações de pressão, o tempo de reação mostra-se competitivo, mas a capacidade de manter margem de decisão tática diminui com fadiga acumulada. O treinador recomenda sessões específicas de resistência intermitente e simulações de rounds completos com gestão de pacing.\n\nDo ponto de vista preventivo, manter protocolos de recuperação pós-sparring e integrar trabalho de força funcional para preservar estabilidade lombopélvica. Estratégia tática final: otimizar conservação de energia para manter precisão em sequências longas."
+  },
+  {
+    "id": 16,
+    "modalidade": "Natação",
+    "tipo": "medico",
+    "atleta": "Fictício 16",
+    "texto": "Especialista em 100m livre com relato de desconforto no ombro esquerdo em extremos de volume semanal, sem perda de amplitude de movimento significativa. Exame ortopédico sinalizou leve frouxidão glenoumeral e irritabilidade do manguito rotador, compatível com controle motor deficitário em fases de recuperação do braço. Durante uma sessão de avaliação técnica foi documentado detalhadamente um padrão onde a fase subaquática apresentava perda de alinhamento do tronco, aumentando carga de momento no ombro.\n\nProposta clínica inclui redução temporária de volume em blocos de treino, trabalho de retração escapular e exercícios de controle motor concêntrico e excêntrico do manguito rotador. Recomenda-se ultrassonografia se sintomas persistirem após 4 semanas de intervenção, além de ajustes em técnica de puxada para reduzir pico de carga articular. O plano nutricional e de sono deve ser monitorado para mitigar risco de fadiga muscular crônica.\n\nRetorno progressivo às séries intensas somente após recuperação da estabilidade articular e melhora do padrão de movimento. A equipe multidisciplinar deverá reavaliar resposta em 3 semanas."
+  },
+  {
+    "id": 17,
+    "modalidade": "Futebol",
+    "tipo": "tatico",
+    "atleta": "Fictício 17",
+    "texto": "Zagueiro central com boa leitura de jogo para antecipações e interceptações na segunda bola. Treinos táticos recentes destacaram a responsabilidade na cobertura de laterais e na construção desde trás, com exercícios de saída sob pressão que evidenciaram melhoria na tomada de decisão. Em jogo eliminatório foi decisivo em um lance aos 72 minutos ao cortar uma bola longa com antecipação e iniciar transição ofensiva eficiente.\n\nAnálise de posicionamento aponta tendência a avançar demais em linhas altas quando o time pressiona, criando espaço nas costas que adversários exploram em contra-ataques rápidos. A transição defensiva após perda de posse mostra-se robusta em períodos iniciais do jogo, mas diminui de eficiência em fases finais devido à fadiga. Treinos de resistência intermitente e simulações de saída sob pressão foram recomendados para reduzir erro de posicionamento.\n\nTaticamente é peça central para leitura de jogo defensiva, mas precisa calibrar timing de avanço e melhorar comunicação com lateral. Inserir exercícios de tomada de decisão sob fadiga para consolidar padrão de cobertura."
+  },
+  {
+    "id": 18,
+    "modalidade": "Basquete",
+    "tipo": "medico",
+    "atleta": "Fictício 18",
+    "texto": "Armador com histórico de bursite no ombro direito que retornou parcialmente após intervenção conservadora, mas que apresenta limitação funcional em arremessos de longa distância sob fadiga. Avaliação dinâmica mostrou perda de sincronização entre cadeia proximal e distal durante o gesto de arremesso, com sobrecarga compensatória no trapézio superior. Em sessão de monitorização, episódios de dor aumentaram após treinos com alta repetição de arremessos, requerendo ajuste do volume e inclusão de exercícios de estabilidade escapular.\n\nExames complementares não apontaram lesão estrutural grave, mas há sinal de irritação tendinosa e déficit de endurance muscular local. Plano terapêutico inclui fortalecimento excêntrico, treino de mobilidade torácica e restruturação do microciclo para incluir dias de recuperação ativa. Também se recomenda análise ergonômica da técnica de arremesso com vídeo para correção de padrões compensatórios.\n\nReteste físico e reavaliação clínica em 5 semanas para confirmar resolução dos sintomas. Evitar picos de volume de arremessos sem progressão controlada para prevenir recidiva."
+  },
+  {
+    "id": 19,
+    "modalidade": "Vôlei",
+    "tipo": "tatico",
+    "atleta": "Fictício 19",
+    "texto": "Levantador com leitura de jogo apurada e capacidade de acelerar o ritmo ofensivo com variações de tempo. Treinos de equipe enfatizaram sincronização com meio e oposto, com situações de 3:2 para simular pressão de bloqueio adversário. Em set decisivo foi observado um sequence play em que alterações de tempo e segunda bola criaram múltiplas linhas de ataque e forçaram ajuste de marcação do adversário.\n\nTaticamente demonstra boa gestão de jogo, mas apresenta alguma inconsistência quando o passe é muito curto, exigindo improvisação que às vezes reduz eficiência ofensiva. A transição defensiva pós-levantamento é satisfatória, porém o tempo de reação em coberturas de bloqueio pode ser melhorado com estímulos visuais e drills de reação rápida. Recomenda-se incrementar sessões de treino com variação de qualidade de passe e aumento gradual da imprevisibilidade dos cenários.\n\nManter integração entre técnico e analista de desempenho para otimizar decisões de distribuição de bola. Sugere-se registro detalhado dos padrões de decisão para retroalimentação técnica."
+  },
+  {
+    "id": 20,
+    "modalidade": "Tênis",
+    "tipo": "medico",
+    "atleta": "Fictício 20",
+    "texto": "Jogadora com relato de dores recorrentes no punho dominante, intensificadas por sessões prolongadas de treinos de backhand com top spin. Avaliação clínica mostrou sensibilidade no retináculo flexor e pequenas alterações de ecogenicidade compatíveis com tendinopatia de esforço repetitivo. Em relato pormenorizado, durante um treino de 90 minutos houve aumento progressivo da dor que limitou a força de preensão e a resolução só ocorreu após redução de carga e tratamento local.\n\nProposta de manejo inclui redução do volume técnico, reeducação de técnica de backhand, fortalecimento intrínseco da mão e utilização temporária de suportes de preensão durante séries longas. Se os sintomas persistirem por 4 semanas, considerar avaliação por imagem e possível modificação da raquete. O plano de retorno deve ser gradual, com monitorização da dor e da função de preensão manual.\n\nAlém do manejo local, avaliar fatores ergonômicos como empunhadura, corda e padrão de puxada para reduzir cargas repetitivas. Integração com treinador e fisioterapeuta é essencial para ajuste técnico e prevenção secundária."
+  },
+  {
+    "id": 21,
+    "modalidade": "MMA",
+    "tipo": "misto",
+    "atleta": "Fictício 21",
+    "texto": "Peso pesado com bom controle de distância e leitura de jogo em trocas de média e curta distância, apresentando força de agarramento elevada. Treinos recentes enfatizaram transições para o clinch e defesa de queda, com foco em resistência isométrica e explosão muscular. Em uma luta de treino cronometrada houve relato de perda de ritmo no terceiro segmento após sucessivas mudanças de nível, resultando em menor precisão de golpes.\n\nDo ponto de vista clínico, o atleta refere dores cervicais após sessões longas de sparring, associadas a rigidez dos paravertebrais e compressão articular leve em C6-C7, sem déficit neurológico objetivo. Avaliação funcional recomenda trabalho de mobilidade cervical, fortalecimento escapular e core para reduzir carga na coluna durante quedas e clinches. Também se identificou necessidade de otimizar periodização de sparring para reduzir risco de fadiga crônica.\n\nTaticamente é dominante em controle de quadro, mas perde eficiência técnica quando o condicionamento se degrada. Recomenda-se integração entre técnico, fisioterapeuta e preparador físico para harmonizar carga e reduzir risco de lesões."
+  },
+  {
+    "id": 22,
+    "modalidade": "Natação",
+    "tipo": "tatico",
+    "atleta": "Fictício 22",
+    "texto": "Especialista em provas de meio-fundo com boa capacidade de pacing strategy e leitura do ritmo de prova. Treinos recentementes enfocaram simulações de prova com variação de pacing e trabalho de virada para minimizar perda de velocidade no último terço. Em competição observou-se um padrão de queda de velocidade nos últimos 50 metros que coincidiu com alteração de amplitude de batida, provavelmente relacionada a fadiga local.\n\nA análise técnica identificou perda de alinhamento do tronco e maior resistência de arrasto durante a fase de recuperação, fatores que afetam manutenção de velocidade. Treinos de força específicos para cadeia posterior e sessões de economia de movimento foram implementados com melhora moderada nas séries de controle. Recomenda-se testar limiar láctico e ajustar microciclos para incluir blocos de recuperação ativa entre séries intensas.\n\nTaticamente tem boa leitura coletiva para posicionamento em provas de equipe, mas precisa consolidar manutenção de velocidade em finais de prova. Integrar preparador físico e técnico para otimizar estratégia de prova e periodização."
+  },
+  {
+    "id": 23,
+    "modalidade": "Futebol",
+    "tipo": "medico",
+    "atleta": "Fictício 23",
+    "texto": "Lateral direito com história de tendinopatia do quadril e episódios de dor inguinal referidos após sprints máximos. Exame clínico detectou déficit de força nos adutores e sensibilidade na inserção púbica, sugerindo pubalgia em maturação. Durante um amistoso detalhado houve episódio de dor súbita ao final de um sprint de 30 metros que levou à substituição imediata e iniciou manejo conservador com gelo e anti-inflamatório.\n\nAvaliação por imagem planificada inclui ultrassonografia e, se indicado, ressonância magnética para caracterizar lesão de origem musculotendínea ou osteoarticular. O plano terapêutico envolve reequilíbrio muscular de adutores e abdutores, trabalho excêntrico, correção técnica de padrão de corrida e progressão controlada de sprints. Monitorização da carga de treino e ajuste do volume de sprints em microciclos é essencial para evitar cronificação.\n\nRetorno competitivo condicionado à resolução dos sintomas e reteste funcional com igualdade de força entre membros. Comunicação estreita entre comissão técnica e equipe médica necessária para manejo de carga."
+  },
+  {
+    "id": 24,
+    "modalidade": "Basquete",
+    "tipo": "tatico",
+    "atleta": "Fictício 24",
+    "texto": "Ala-armador com bom repertório de penetrações e leitura de espaços no drible de penetração. Nos treinos coletivos foi trabalhada a transição ofensiva após roubadas de bola, com exercícios que simulam turnovers e exigem reação imediata. Em jogo de alto nível há relato de um lance onde, após dois dribles de mudança de cadência, o atleta criou ângulo para passe vertical que culminou em cesto de contra-ataque.\n\nAnálise de vídeo aponta que sob pressão de marcação dupla tende a usar mão contrária ao drible, reduzindo opções de passe e comprometendo eficiência. A velocidade de reação é adequada, mas a resistência intermitente precisa ser melhorada para manter padrão nos quatro períodos. Treinamentos recomendados incluem drills de decisão rápida e séries com fadiga induzida para reproduzir cenário de jogo real.\n\nTaticamente é peça criativa, mas necessita trabalhar variações de mão e alternativas de passe sob marcação intensa. Inserir feedback de vídeo e exercícios específicos de sincronização com alas e pivô."
+  },
+  {
+    "id": 25,
+    "modalidade": "Vôlei",
+    "tipo": "medico",
+    "atleta": "Fictício 25",
+    "texto": "Central com queixa de dor patelofemoral intermitente que aumenta após blocos repetidos em superfícies duras. Avaliação clínica revelou sensibilidade à compressão patelar e leve alteração do eixo de rastreio patelar, possivelmente relacionada a desequilíbrios do vasto medial oblíquo. Durante uma sessão de treino intenso o atleta relatou aumento progressivo da dor que limitou o salto e exigiu redução do volume.\n\nPlano terapêutico inclui trabalho de reforço do quadríceps medial, treino neuromuscular para controle de joelho em aterrissagens e ajuste do material de apoio de calçado. Também se recomenda avaliação biomecânica de aterrissagem com vídeo para correção de padrões que geram pico de carga na patela. A intervenção fisioterapêutica e reprogramação do microciclo devem ser monitoradas para evitar progressão para dor crônica.\n\nReteste em 4 semanas e, se necessário, consideração de intervenção ortopédica ou suporte provisório. Comunicação com a equipe técnica é imprescindível para ajustar carga de salto."
+  },
+  {
+    "id": 26,
+    "modalidade": "Tênis",
+    "tipo": "tatico",
+    "atleta": "Fictício 26",
+    "texto": "Competidor de quadra rápida com bom uso de angulação e variação de ritmo para quebrar a consistência do adversário. Treinos recentes focaram em saques com variação de slice e placement, além de trabalhar recuperação de posição após ataque na rede. Em um match de observação, uma sequência de cinco trocas de ritmo demonstrou a habilidade do atleta em manipular profundidade de bola e forçar erro não forçado do adversário.\n\nA leitura de jogo é refinada, porém a capacidade de manter agressividade sem comprometer consistência cai após sets longos. Métricas de tempo de reação e recuperação entre pontos indicam espaço para melhorar a economia de movimento e reduzir pico de lactato. Estratégias de treino propõem integração de sessões de técnica sob fadiga e ajustes na periodização de torneios para preservar desempenho em fases decisivas.\n\nRecomenda-se análise detalhada de saque e ajuste do grip e tensão de corda para otimizar colocação e reduzir variabilidade. Trabalho conjunto entre técnico e preparador físico para melhorar manutenção de precisão."
+  },
+  {
+    "id": 27,
+    "modalidade": "MMA",
+    "tipo": "medico",
+    "atleta": "Fictício 27",
+    "texto": "Peso leve com histórico de lesão no tornozelo por entorse lateral há 10 meses, com sensação ocasional de instabilidade em mudanças de direção. Avaliação física evidenciou déficit proprioceptivo e fraqueza dos peroneais, além de certo grau de frouxidão ligamentar residual. Em sessão de treino controlado houve inversão leve do tornozelo sem queda, acompanhada de dor transitória e necessidade de diminuir carga naquele dia.\n\nPlano de reabilitação foca em exercícios proprioceptivos progressivos, reforço da cadeia lateral e treino de aterrissagem para reduzir probabilidades de recorrência. Recomenda-se também revisão do volume de saltos e simulações de trocas de nível com proteção e progressão de complexidade. Se a instabilidade persistir, considerar investigação por imagiologia dinâmica para avaliar ligamentos laterais.\n\nIntegração entre técnico, preparador físico e fisioterapeuta é necessária para calibrar retorno ao sparring pleno. Monitorar indicadores de fadiga e ajustar microciclos para prevenir reagudização."
+  },
+  {
+    "id": 28,
+    "modalidade": "Natação",
+    "tipo": "misto",
+    "atleta": "Fictício 28",
+    "texto": "Especialista em 50m borboleta com explosão muscular elevada e excelente tempo de reação na saída de bloco. Treinos de potência e pliometria reduziram o tempo de saída, e ajustes técnicos na batida de pernada melhoraram a fase subaquática. Em competição foi observado que após excelente start houve perda parcial de eficiência no final da prova, possivelmente por falha na economia de movimento e acúmulo de lactato.\n\nClinicamente relata dor lombar ocasional associada a exercícios de força com hiperextensão e a sessões de longa duração de nado em intensidade alta. Avaliação postural detectou rigidez torácica que influencia a amplitude do movimento de puxada e aumenta a demanda lombar. Plano integrado propõe trabalho de mobilidade torácica, fortalecimento do core e ajustes no microciclo de força para reduzir picos de carga.\n\nTaticamente é forte em prova curta, mas precisa aprimorar manutenção de técnica sob estresse metabólico. Reavaliação da resposta ao ajuste de microciclo em 3 semanas recomendada."
+  },
+  {
+    "id": 29,
+    "modalidade": "Futebol",
+    "tipo": "tatico",
+    "atleta": "Fictício 29",
+    "texto": "Atacante centro com boa presença de área e leitura de passes em profundidade, demonstrando excelente timing de movimentação em zona ofensiva. Treinos táticos enfatizaram finalizações diversas e sincronização com cordão de meio-campistas, com exercícios de 3v2 na área que melhoraram a tomada de decisão. Em partida oficial, num lance aos 38 minutos, a movimentação diagonal criou espaço para finalização de primeira que resultou em gol.\n\nApesar da presença na área, há tendência a reduzir deslocamento lateral quando pressionado, o que facilita marcação por zagueiros móveis. A resistência intermitente é adequada, mas a manutenção de explosão nos últimos 15 minutos requer trabalho de força específica e estratégias de recuperação entre intervalos. O técnico recomenda incluir séries de sprints com carga reduzida e treinos de finalização em fadiga para simular cenários de jogo real.\n\nTaticamente vital para o esquema ofensivo, precisa calibrar mobilidade lateral e gestão de energia para impactar consistentemente 90 minutos. Integração entre analista de desempenho e preparador físico pode otimizar rendimento."
+  },
+  {
+    "id": 30,
+    "modalidade": "Basquete",
+    "tipo": "misto",
+    "atleta": "Fictício 30",
+    "texto": "Pivô com envergadura acima da média e excelente capacidade de proteger aro, com leitura de jogo para posicionamento em rebotes e cortes curtos. Treinos recentes trabalharam deslocamento lateral e timing de salto para bloquear arremessos, incluindo estímulos de tempo de reação e propriocepção. Em jogo observado, aos 05:41 do quarto período, realizou sequência defensiva com dois bloqueios seguidos e captura de rebote, iniciando transição ofensiva com passe imediato para armação de contra-ataque.\n\nClinicamente refere episódios de desconforto no joelho direito após jogos com muitas mudanças de direção, porém sem sinal de instabilidade aguda; exames funcionais detectaram leve déficit de força no quadríceps comparado ao contralateral. A equipe tem implementado trabalho de fortalecimento quadríceps excêntrico e controle motor de cadeia cinética para reduzir carga articular. A análise de vídeo também mostrou que em situações de pick and roll o atleta tende a fechar o espaço cedo, ocasionalmente comprometendo a linha de passe do armador.\n\nRecomenda-se ajustar sincronização com a linha de pick and roll, continuar fortalecimento excêntrico e monitorizar carga semanal para evitar sobrecarga. Plano de reavaliação em 6 semanas para medir ganhos de força e ajustes táticos."
+  },
+  {
+    "id": 31,
+    "modalidade": "Futebol",
+    "tipo": "misto",
+    "atleta": "Fictício 31",
+    "texto": "Extremo esquerdo com perfil de alto rendimento e histórico de adaptação posicional nos últimos dois anos, apresentando evolução na leitura de jogo e na tomada de decisão em zonas de profundidade. Nos treinamentos recentes houve foco em aceleração-deceleração, trabalho de 1v1 e estímulos visuais para reduzir o tempo de reação em saídas apertadas, resultando em melhoria de eficácia nas penetrações. Em partida tática observada, aos 34 minutos, combinou uma diagonal curta com um passe por cobertura que originou um gol, evidenciando sincronização com o meio-campo.\n\nClinicamente relata episódios de fadiga muscular crônica em microciclos de densidade elevada, especialmente em isquiotibiais, com câimbras tardias após jogos com sequências de sprints. Avaliação funcional mostrou déficit excêntrico no membro dominante e assimetria dinâmica no padrão de aterrissagem, recomendando trabalho excêntrico progressivo e controle neuromuscular. A equipe propôs ajuste da periodização, suplementação orientada e retestes isocinéticos em 8 semanas.\n\nTaticamente é recurso importante para explorar mismatches, mas precisa melhorar resistência intermitente para manter entregas de qualidade nos 90 minutos. Recomenda-se integrar preparador físico, fisioterapeuta e analista para monitorização de carga e otimização de microciclos. Plano de curto prazo: reduzir picos de sprint, aumentar sessões de força excêntrica e replicar cenários de decisão sob fadiga."
+  },
+  {
+    "id": 32,
+    "modalidade": "Basquete",
+    "tipo": "medico",
+    "atleta": "Fictício 32",
+    "texto": "Ala com histórico de sobrecarga no tendão de Aquiles e episódios intermitentes de dor pós-jogo que aumentam com séries de treino de salto. Exame clínico demonstrou sensibilidade localizada, redução de amplitude de dorsiflexão e padrão de ciclo de salto alterado, com compensação proximal no quadríceps. Em avaliação ultrassonográfica foi identificado espessamento tendinoso sem ruptura, compatível com tendinopatia crônica por sobreuso.\n\nDurante um microciclo intenso houve relato de rigidez matinal e sensação de estalido que cedeu com aquecimento, sugerindo necessidade de readequação de volume e inclusão de trabalho excêntrico específico. O plano terapêutico inclui reforço excêntrico progressivo, fisioterapia manual, modificação temporária de exercícios pliométricos e reavaliação em 6 semanas. Recomenda-se também análise da mecânica do salto com vídeo para correção de padrões compensatórios.\n\nPara prevenção secundária, orientar presença do preparador físico em sessões de progressão de carga e ajustar o calçado e superfície de treino conforme resposta clínica. Retorno pleno condicionado à redução da dor e normalização do padrão de salto em testes instrumentados."
+  },
+  {
+    "id": 33,
+    "modalidade": "Vôlei",
+    "tipo": "tatico",
+    "atleta": "Fictício 33",
+    "texto": "Ponteira com excelente repertório técnico e capacidade de variação de velocidade na batida, utilizando bem o ângulo e a profundidade para forçar o bloqueio adversário. Treinos recentes enfatizaram transição defensiva e cobertura de linha de passagem, com drills de leitura de bloqueio que mostraram progresso na sincronização com o levantador. Em um set observado performou sequência onde alternou ataque por potência e largada, abrindo espaço para o oposto finalizar com margem de segurança.\n\nAnálise de vídeo revela que, sob fadiga acumulada, o tempo de reação para ajuste de ângulo diminui, comprometendo a eficácia em sequências longas. A comissão técnica recomenda incluir séries de resistência específica e exercícios de tomada de decisão rápida sob pressão, além de trabalho de propriocepção para manter consistência no posicionamento de ataque. Medidas de microciclo devem priorizar recuperação intersetorial para evitar declínio de performance.\n\nConclusão tática: atleta com alto impacto ofensivo, necessita estabilizar variabilidade de execução sob fadiga e melhorar a manutenção de precisão em finais de set. Implementar feedback em vídeo e simulações de jogo imprevisíveis para acelerar a adaptação."
+  },
+  {
+    "id": 34,
+    "modalidade": "Tênis",
+    "tipo": "medico",
+    "atleta": "Fictício 34",
+    "texto": "Jogador com queixa de dor lateral no joelho direito após séries de saque e deslocamentos rápidos, relatando aumento de dor em superfícies duras. Exame clínico aponta sensibilidade na linha iliotibial e leve crepitação em compressão patelar, com sinais compatíveis com síndrome da bandela iliotibial e componente de sobrecarga. Em descrição detalhada de sessão de treino, após repetição de serviços com transporte de peso para frente, houve piora progressiva da dor que limitou a força de impulso.\n\nPlano de manejo inclui redução temporária do volume de saques, reeducação de padrão de corrida e de técnica de pés, além de terapia manual e fortalecimento de cadeia lateral e glúteo médio. Recomenda-se avaliação biomecânica com análise de angulação de joelho durante deslocamentos e, se necessário, alterações em calçado e programação de treinos. Monitorização de carga e reteste funcional em 4 semanas são mandatórios para confirmar resposta.\n\nSe a dor persistir, considerar imagem por ressonância magnética para excluir lesão meniscal ou alterações condrais. A integração entre técnico e fisioterapeuta é essencial para retomar progressão sem comprometer a temporada."
+  },
+  {
+    "id": 35,
+    "modalidade": "MMA",
+    "tipo": "tatico",
+    "atleta": "Fictício 35",
+    "texto": "Peso meio-médio com excelente controle de clinch e capacidade de ditar ritmo, usando bem variação de cadência para induzir erros do adversário. Treinos técnicos focaram transições rápidas entre striking e single-leg takedown, com ênfase em timing e leitura de jogo para explorar aberturas no overcommit do oponente. Em luta de simulação observou-se sequência onde o atleta usou feint para provocar reação e, na resposta, executou queda estratégica que gerou controle lateral.\n\nAnálise de desempenho mostra boa explosão muscular em entradas, mas perda de precisão em strikes quando as trocas de nível se prolongam; isso se associa a queda no tempo de reação no terceiro round de simulações. O treinador recomenda aumentar sessões de resistência intermitente e trabalhos específicos para manter estabilidade técnica sob fadiga. Estratégia tática final inclui gestão de volume de sparring para preservar margem de decisão e precisão.\n\nRecomenda-se monitorização de sinais neurológicos pós-sparring e integração de fisiologista para otimizar recuperação e periodização. Implementar drills de tomada de decisão sob estresse metabólico para consolidar padrão."
+  },
+  {
+    "id": 36,
+    "modalidade": "Natação",
+    "tipo": "misto",
+    "atleta": "Fictício 36",
+    "texto": "Nadador de 200m costas com boa técnica de virada e saída, demonstrando melhorias na amplitude de braçada e em sincronização de respiração. Treinos recentes incluíram blocos de técnica, força de cadeia posterior e trabalho específico de resistência anaeróbia, com resultados positivos em tempos de parcial. Em sessão de avaliação biomecânica foi documentada perda de alinhamento do eixo corporal no final de séries, aumentando arrasto e reduzindo manutenção de velocidade.\n\nClinicamente relata desconforto cervical leve associado a rotação repetida da cabeça durante respiração, sem sinais neurológicos. Plano de intervenção propõe trabalho de mobilidade cervical, reforço escapular e ajustes na técnica de respiração para reduzir pico de carga na coluna cervical e melhorar economia de movimento. Recomenda-se também teste de limiar láctico para ajustar microciclo e estratégias de pacing.\n\nTaticamente o atleta responde bem a mudanças de ritmo, mas precisa manter técnica sob estresse metabólico para evitar perda de velocidade no último terço. Integração entre técnico, fisioterapeuta e preparador físico é necessária para otimizar resultados em competições."
+  },
+  {
+    "id": 37,
+    "modalidade": "Futebol",
+    "tipo": "medico",
+    "atleta": "Fictício 37",
+    "texto": "Volante com histórico de lombalgia mecânica intermitente que piorou em microciclos de alta carga após jogos com disputa aérea intensa. Exame físico mostrou rigidez de cadeia posterior, fraqueza relativa do core e sensibilidade em pontos miofasciais lombares, sem sinais de radiculopatia. Durante uma sessão de levantamento de carga o atleta referiu aumento de dor que motivou ajuste imediato do treino e aplicação de estratégias de recuperação.\n\nPlano clínico inclui programa de estabilização lombopélvica, reeducação postural, alongamento direcionado e progressão de força funcional para reduzir carga em estruturas móveis da coluna. Sugere-se também periodização que limite picos de volume e incorpore sessões de recuperação ativa com terapia manual. Monitorar resposta à intervenção com escalas de dor e função.\n\nRetorno a cargas máximas condicionado à redução significativa dos sintomas e melhoria do controle motor. Comunicação entre equipe médica e comissão técnica é essencial para evitar cronificação."
+  },
+  {
+    "id": 38,
+    "modalidade": "Basquete",
+    "tipo": "tatico",
+    "atleta": "Fictício 38",
+    "texto": "Armador com alta capacidade de gerenciamento do tempo de jogo e leitura de espaços para criação de vantagem, demonstrando proficiência em pick and roll e kick-outs. Treinos táticos recentes enfatizaram ritmo de bola e distribuição sob pressão, com exercícios de 3v3 que estimularam velocidade de decisão. Em partida analisada fez uma sequência onde variou o timing do pick and roll e forçou trocas de marcação que abriram um corredor para finalização de penetração.\n\nEm momentos de intensidade elevada a transição defensiva apresenta pequenas falhas de comunicação, especialmente na cobertura de passes longos; isso exige ajuste de liderança e fala em quadra. Métricas de tempo de reação mostram boa média, mas episódios isolados de delay ocorrem quando o time sofre rotação defensiva intensa. Recomenda-se inserir drills de comunicação e cenários defensivos complexos durante treinos táticos.\n\nConclusão: peça-chave para arranjos ofensivos, precisa aprimorar sinais e rotinas defensivas para reduzir lapsos em transição. Uso de feedback em tempo real e análises de vídeo pode acelerar correções."
+  },
+  {
+    "id": 39,
+    "modalidade": "Vôlei",
+    "tipo": "medico",
+    "atleta": "Fictício 39",
+    "texto": "Oposto com relato de dor irradiada para região scapular após séries intensas de ataque, com sensação de fadiga precoce do manguito rotador. Exame físico apontou fraqueza relativa em rotação externa e déficit de resistência muscular local, com padrão de movimento compensatório em fase de aceleração. Em sessão de treino o atleta interrompeu série de ataques por dor aguda, sendo necessário reduzir carga e aplicar técnicas de controle inflamatório.\n\nPlano de intervenção contempla fortalecimento excêntrico do manguito rotador, reeducação técnica da batida e mobilidade torácica para reduzir momento de força sobre a articulação glenoumeral. Também se recomenda ajuste do volume de ataques por semana e inclusão de dias de recuperação ativa, com reavaliação em 5 semanas. Caso persista sintomatologia, considerar ultrassom com doppler para avaliar vascularização tendinosa.\n\nIntegração entre técnico, fisioterapeuta e preparador físico é obrigatória para garantir progressão sem agravar a lesão. Retorno pleno condicionado à resolução da dor e recuperação de resistência local."
+  },
+  {
+    "id": 40,
+    "modalidade": "Tênis",
+    "tipo": "tatico",
+    "atleta": "Fictício 40",
+    "texto": "Competidor de baseline com alta capacidade de variação de spin e profundidade, utilizando mudanças de ritmo para desencadear erros do adversário. Treinos estratégicos focaram na utilização de ângulos e ajuste de posicionamento para controlar espaços curtos, com simulações de quebra em games disputados. Em partida de observação o atleta forçou o adversário a deslocamentos longitudinais contínuos e conseguiu vitória em tiebreak após sete pontos longos.\n\nNo entanto, em sets longos a consistência cai por leve degradação da economia de movimento e aumento de erros não forçados, possivelmente associados a fadiga muscular crônica em microciclos consecutivos. Métricas de tempo de reação mostram boa base, mas queda de amplitude de batida no final dos sets reduz capacidade de empurrar o adversário para trás. Recomenda-se integrar treino técnico sob fadiga e ajustes na periodização de torneios para preservar qualidade de golpe.\n\nConclusão tática: jogador com arsenal técnico completo, precisa otimizar manutenção de desempenho em sequências longas. Colaboração entre técnico e preparador físico para melhorar pacing e recuperação é aconselhada."
+  },
+  {
+    "id": 41,
+    "modalidade": "MMA",
+    "tipo": "medico",
+    "atleta": "Fictício 41",
+    "texto": "Peso pena com histórico de sintomas vestibulares leves após combates com muitos impactos na cabeça, especialmente nos microciclos com sparring repetido. Avaliação neurológica básica não mostrou déficits motores, porém testes de equilíbrio dinâmico indicaram redução da performance em condições instáveis. Em uma sessão de sparring controlado relatou tontura transitória após sequência de golpes, recuperando-se em minutos mas despertando atenção para o monitoramento contínuo.\n\nPlano clínico inclui redução temporária do número de rounds de sparring, protocolo de avaliação neurocognitiva e acompanhamento por especialista em medicina do esporte para definir critérios de retorno seguro. Também se recomenda reforço de técnica defensiva para reduzir exposição a impactos e inclusão de sessões de neck strengthening para estabilização cervical. Monitorar qualidade do sono e sintomas pós-treino como cefaleia e irritabilidade.\n\nRetorno ao sparring pleno condicionado a ausência de sintomas e normalização de testes vestibulares e neurocognitivos. Comunicação clara entre equipe técnica e médica é essencial para proteção do atleta."
+  },
+  {
+    "id": 42,
+    "modalidade": "Natação",
+    "tipo": "tatico",
+    "atleta": "Fictício 42",
+    "texto": "Especialista em 400m livre com bom senso de pacing e capacidade de ajustar split times conforme a dinâmica da prova. Treinos de equipe destacaram séries longas progressivas e trabalho de técnica de virada para minimizar perda de velocidade nos últimos 100 metros. Em competição foi registrado um final forte após ajuste de ritmo no terceiro bloco, evidenciando capacidade de leitura de prova e execução do plano tático.\n\nAnálise técnica identificou que em provas de alta intensidade a amplitude de batida diminui, aumentando arrasto e reduzindo eficiência de propulsão; isso pode ser mitigado por trabalho de força específica e treino técnico focado em economia de movimento. Recomenda-se também avaliação de limiar láctico para ajuste de zonas de treino e controle de microciclos para evitar fadiga muscular crônica. Integração entre técnico e preparador físico para otimizar pacing strategy é sugerida.\n\nConclusão: atleta taticamente disciplinado, deve consolidar manutenção de técnica sob estresse metabólico para maximizar resultados em competições de fundo."
+  },
+  {
+    "id": 43,
+    "modalidade": "Futebol",
+    "tipo": "tatico",
+    "atleta": "Fictício 43",
+    "texto": "Atacante de ligação com habilidade para articular jogo entre meio-campo e frente, mostrando leitura de jogo e visão de passe em curto espaço. Treinos táticos focaram em rotas de movimentação, ocupação de half-spaces e exploração de diagonais curtas com apoio de laterais. Em um lance decisivo entrou nas costas da defesa e finalizou rápido após tabela, demonstrando timing de penetração e sincronização com o meia.\n\nApesar dessas qualidades, mostra queda de participação ofensiva em partidas contra blocos baixos e pressão intensa, possivelmente pela limitação de explosão em arrancadas longas; trabalho de força e sprints específicos podem melhorar esse aspecto. A transição defensiva costuma ser bem executada, mas a capacidade de manter intensidade até o final depende de ajustes de periodização. Recomenda-se incluir simulações de pressão defensiva e práticas de finalização em fadiga.\n\nTaticamente valioso para construir jogo curto, precisa incrementar velocidade de reação e manutenção de explosão para ser referência em duelos mais físicos."
+  },
+  {
+    "id": 44,
+    "modalidade": "Basquete",
+    "tipo": "medico",
+    "atleta": "Fictício 44",
+    "texto": "Pivô com relato de dor rotineira na região inguinal após jogos com muitas batalhas de poste e mudanças de direção, sem relato de perda de função. Exame clínico mostrou déficit de força no adutor longo e sensibilidade na inserção púbica, sugerindo processo de pubalgia em fase inicial. Em sessão de treino após sequência de jogos, o atleta referiu piora da dor que levou à redução de intensidade e início de protocolo conservador.\n\nO plano de tratamento inclui trabalho de reequilíbrio adutor/abdutor, controle motor do core e progressão cuidadosa de exercícios de explosão e de pouso. Recomenda-se também avaliação por imagem se sintomas persistirem e ajuste do microciclo para limitar picos de carga. A equipe fisioterápica propõe reteste em 4 semanas com medidas de força e dor.\n\nSem intervenção adequada há risco de cronificação e impacto na participação em torneios consecutivos. Coordenação entre técnico, preparador físico e equipe clínica é necessária para manejar retorno seguro."
+  },
+  {
+    "id": 45,
+    "modalidade": "Vôlei",
+    "tipo": "tatico",
+    "atleta": "Fictício 45",
+    "texto": "Levantador com excelente controle de ritmo e capacidade de acelerar jogo, usando bem mudanças de altura para surpreender bloqueadores. Treinos recentes trabalharam variação de levantamento em segundos tempos e integração com meio e oposto, com exercícios de 5:1 para simular pressão de saque adversário. Em um set decisivo adotou sequência de levantamentos rápidos que desestruturou o bloqueio rival e permitiu finalizações de primeira.\n\nQuando o passe é curto, o atleta demonstra boa improvisação, mas a eficiência diminui em séries longas quando a precisão cai; isso exige treino específico de ajuste de tempo sob condições de passe deficitário. A transição defensiva após levantamento é robusta, mas o tempo de reação em coberturas de bloqueio pode ser aprimorado com estímulos visuais e drills de decisão rápida. Recomenda-se aumentar imprevisibilidade dos cenários de treino e consolidar rotinas de comunicação com atacantes.\n\nConclusão: peça essencial para acelerar jogo, precisa trabalhar consistência sob estresse e manter qualidade de levantamento em microciclos extenuantes."
+  },
+  {
+    "id": 46,
+    "modalidade": "Tênis",
+    "tipo": "medico",
+    "atleta": "Fictício 46",
+    "texto": "Jogador com sintomas de epicondilite lateral no cotovelo dominante, agravados por treinos prolongados de backhand com uma mão e por aumentos recentes no volume de saque. Durante avaliação clínica apresentou dor à palpação epicondilar, redução da força de extensão de punho e déficit de resistência em testes de repetição, sugerindo tendinopatia por sobrecarga. O histórico relatado inclui alteração recente na tensão da corda e mudança de empunhadura sem reprogramação técnica adequada.\n\nEm sessão de treino de 90 minutos foi detalhado que a dor progressiva limitou a precisão do golpe e a potência, obrigando redução imediata da carga e intervenção analgésica local. Testes funcionais mostraram padrão de recrutamento alterado nos extensores e fadiga precoce, além de impacto no tempo de reação em situações defensivas que exigem remate rápido. A análise técnica por vídeo evidenciou excesso de movimento de flexo-extensão do punho na fase final da batida, transferindo carga para a inserção tendinosa.\n\nPlano de manejo inclui redução temporária do volume técnico, programa excêntrico para extensores do punho, reeducação técnica com foco em transferência de força pela cadeia cinética superior e ajuste ergonômico da raquete (grip e tensão). Reteste em 4 semanas com medidas de preensão e teste funcional é mandatário, e ultrassom deve ser considerado se não houver melhora. Coordenação entre treinador, fisioterapeuta e médico esportivo é essencial para evitar cronificação e preservar rendimento competitivo."
+  },
+  {
+    "id": 47,
+    "modalidade": "MMA",
+    "tipo": "tatico",
+    "atleta": "Fictício 47",
+    "texto": "Peso leve com excelente leitura de distância e capacidade de usar feints para criar janelas de entrada, destacando-se na transição ofensiva entre striking e clinch. Treinos recentes focaram em drills de mudança de nível e timing para single-leg takedown, com ênfase em manter explosão muscular na entrada sem sacrificar equilíbrio. Em luta observada, uma sequência de feints levou o adversário a expor a perna traseira, possibilitando queda eficiente e controle de posição no solo.\n\nAnálise de vídeo mostra que, apesar do bom repertório, a manutenção da estratégia sofre quando o condicionamento se degrada no terceiro round; a precisão dos golpes e o tempo de reação diminuem sob fadiga, evidenciando necessidade de trabalhos intermitentes específicos. A transição defensiva ao perder a posição às vezes apresenta lapsos de comunicação com corner, o que aumenta exposição a contra-ataques. Recomenda-se aumentar sessões de resistência intermitente, simulações de rounds completos com gestão de pacing e drills de tomada de decisão sob estresse metabólico.\n\nTaticamente, priorizar conservação de energia em fases iniciais para manter margem de decisão tática em rounds finais. Integrar preparador físico e técnico para calibrar volume de sparring e evitar picos que reduzam explosão e precisão. Manter monitorização de sintomas pós-treino para ajustar periodização e preservar performance."
+  },
+  {
+    "id": 48,
+    "modalidade": "Natação",
+    "tipo": "medico",
+    "atleta": "Fictício 48",
+    "texto": "Nadador especializado em 100m costas que relata desconforto cervico-dorsal após blocos intensos de treino e séries longas de viradas. Em exame postural observa-se rigidez torácica e déficit de extensão escapular que alteram a mecânica de puxada, aumentando carga em lombar e cervical. A avaliação funcional descreveu perda de alinhamento do eixo corporal em séries acumulativas, com consequente aumento de arrasto e queda de velocidade no segundo bloco.\n\nDurante uma sessão de força com hiperextensão controlada o atleta relatou dor difusa na região cervical que piorou nas 24 horas seguintes, motivando ajuste do microciclo e inclusão de técnicas de recuperação ativa. Testes de mobilidade e força escapular identificaram desequilíbrio entre retração e protração, e há correlação com tempos de reação à saída que se agravam quando a rotação cervical é limitada. A equipe propõe trabalho de mobilidade torácica, fortalecimento escapular e ajuste técnico da respiração para reduzir pico de carga na coluna.\n\nPlano terapêutico prevê redução temporária de séries de alta intensidade, reabilitação focalizada em controle motor cervical e torácico e reteste em 3 semanas com medidas de eficiência de braçada. Monitorar sono, hidratação e sinais de fadiga muscular crônica para otimizar recuperação. Retorno pleno às séries intensas depende da normalização do padrão de movimento e da ausência de sintomas em avaliações funcionais."
+  },
+  {
+    "id": 49,
+    "modalidade": "Futebol",
+    "tipo": "misto",
+    "atleta": "Fictício 49",
+    "texto": "Atacante versátil com boa leitura de jogo em espaços curtos e capacidade de finalizar com ambos os pés, frequentemente criando desequilíbrios em zonas de finalização. Treinos táticos enfatizaram movimentos de ruptura e ocupação de half-spaces, com exercícios de 3v2 que melhoraram tomada de decisão em meia-altura. Em jogo observado aos 62 minutos executou uma penetração combinada com passe entrelinhas que originou gol, evidenciando timing e entendimento coletivo.\n\nFisicamente relata episódios de fadiga intermitente nos últimos 15 minutos de partidas de alto ritmo, com perda de explosão nas arrancadas finais; testes de potência mostraram pequena queda de produção no fim de microciclos intensos. Avaliação funcional detectou assimetria de força no quadríceps e leve déficit excêntrico nos isquiotibiais, fatores que podem comprometer aceleração-deceleração e aumentar risco de lesões. A rotina de recuperação tem incluído crioterapia, suplementação e sessões específicas de força excêntrica.\n\nTaticamente é valioso para ligação entre setores, mas precisa melhorar manutenção de intensidade para contribuir consistentemente até o apito final. Recomenda-se ajuste da periodização com blocos de recuperação ativa, trabalho de resistência intermitente e drills de finalização em fadiga para simular demanda competitiva. Integração entre preparador físico, analista e equipe médica é necessária para calibrar carga e reduzir risco de reagudização."
+  },
+  {
+    "id": 50,
+    "modalidade": "Basquete",
+    "tipo": "tatico",
+    "atleta": "Fictício 50",
+    "texto": "Ala com perfil atlético que combina envergadura e mobilidade, destacando-se em transições rápidas e no aproveitamento de espaços abertos para cortar e finalizar em movimento. Treinos coletivos focaram em pick and roll e leituras de cobertura, com exercícios de 4v4 que reforçaram sincronização entre armador e pivô. Em partida observada realizou uma sequência de cortes no espaço vazio que resultou em cesta de bandeja após assistência imediata do armador.\n\nAnálise de vídeo mostra que a tomada de decisão é excelente quando a intensidade do jogo é moderada, mas sob pressão defensiva intensa o tempo de reação para decisão de passe diminui, levando a turnovers em sequência. A mecânica de salto é eficiente, porém o timing em rebotes defensivos oscila em finais de quarto, possivelmente por fadiga acumulada que afeta explosão muscular e deslocamento lateral. Recomenda-se inserir drills de resistência neuromuscular e exercícios específicos de readaptação de timing para rebotes.\n\nTaticamente, manter variação de movimentos sem bola e trabalhar rotinas de comunicação defensiva pode reduzir lapsos em transição. A equipe técnica deve monitorar microciclos para evitar picos de carga e programar sessões de feedback por vídeo para acelerar correções. Em síntese, atleta com alto potencial tático, exigindo ajustes finos em manutenção de performance sob fadiga para se tornar referência consistente."
+  }
+]

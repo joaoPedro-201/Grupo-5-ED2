@@ -11,45 +11,30 @@ class PageRankMatematicoPurista:
         self.tol = tol
 
     def calcular_scores(self):
-        # Inicialização purista: vetor de probabilidade uniforme (1 / N)
         scores_atuais = [1.0 / self.N] * self.N
         
-        # Criação da Matriz de Transição Estocástica
-        # No PageRank, cada linha deve somar 1. Se a linha sum(matriz[i]) for > 0, 
-        # dividimos cada elemento pelo total daquela linha.
         matriz_transicao = [[0.0 for _ in range(self.N)] for _ in range(self.N)]
-        
         for i in range(self.N):
             soma_linha = sum(self.matriz[i])
             if soma_linha > 0:
                 for j in range(self.N):
                     matriz_transicao[i][j] = self.matriz[i][j] / soma_linha
-            # Nós sem nenhuma saída (Dangling Nodes) serão tratados dinamicamente no loop
 
-        # Loop de Iteração de Potências (Power Iteration)
+        eh_sumidouro = [sum(self.matriz[i]) == 0 for i in range(self.N)]
+
         for iteracao in range(self.max_iter):
             novos_scores = [0.0] * self.N
-            
-            # Constante do vetor de teleporte do PageRank (gerado pelo damping factor)
             teleporte = (1.0 - self.d) / self.N
 
             for j in range(self.N):
                 soma_links = 0.0
                 for i in range(self.N):
-                    soma_linha_original = sum(self.matriz[i])
-                    
-                    if soma_linha_original > 0:
-                        # O nó 'i' passa sua autoridade para o nó 'j' baseado na matriz estocástica
+                    if not eh_sumidouro[i]:
                         soma_links += matriz_transicao[i][j] * scores_atuais[i]
                     else:
-                        # Se o nó 'i' for um nó sumidouro (Dangling Node), 
-                        # ele distribui sua probabilidade igualmente para todos
                         soma_links += (1.0 / self.N) * scores_atuais[i]
-
-                # Equação fundamental do PageRank
                 novos_scores[j] = teleporte + self.d * soma_links
 
-            # Teste de convergência por norma L1 (distância absoluta dos vetores)
             variacao = sum(abs(novos_scores[k] - scores_atuais[k]) for k in range(self.N))
             if variacao < self.tol:
                 print(f"-> PageRank Puro convergiu com sucesso na iteração {iteracao + 1}")

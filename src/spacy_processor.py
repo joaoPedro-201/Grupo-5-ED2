@@ -2,6 +2,16 @@ import spacy
 import json
 import os
 
+
+def calculate_jaccard(set1, set2):
+    """
+    Calculates the Jaccard similarity index between two sets of words.
+    """
+    union = set1.union(set2)
+    if not union:
+        return 0.0
+    return len(set1.intersection(set2)) / len(union)
+
 class SpacyProcessor:
     def __init__(self):
         print("Carregando o modelo do spaCy (pt_core_news_sm)...")

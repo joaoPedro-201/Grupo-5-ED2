@@ -1,3 +1,4 @@
+import os
 from load_reports import load_reports
 from spacy_processor import SpacyProcessor, calculate_jaccard
 from grafo import GrafoMatriz
@@ -8,8 +9,8 @@ def executar_pipeline():
     print("==================================================")
     print("      INICIANDO SISTEMA      ")
     print("==================================================\n")
-
-    caminho_dados = '../dados/dataset.json'
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    caminho_dados = os.path.join(current_dir, '..', 'dados', 'dataset.json')
     relatorios = load_reports(caminho_dados)
 
     if not relatorios:
@@ -27,7 +28,7 @@ def executar_pipeline():
             
         print(f"[{indice + 1}/50] Analisando: {laudo['atleta']} ({laudo['modalidade']})", end="... ")
 
-        frases_originais = [f.strip() + "." for f in texto_bruto.split('.') if len(f.strip()) > 5]
+        frases_originais = [f.strip() + ". " for f in texto_bruto.split('.') if len(f.strip()) > 5]
         
         lista_conjuntos = []
         for frase in frases_originais:
@@ -48,6 +49,24 @@ def executar_pipeline():
         
         print("-" * 60)
         print(f"RESUMO: {resumo_final}")
+        print("-" * 60 + "\n")
+
+        resumo_final = gerar_resumo(frases_originais, scores_finais, k=3)
+        palavras_original = len(texto_bruto.split())
+        palavras_resumo = len(resumo_final.split())
+        
+        if palavras_original > 0:
+            reducao_percentual = 100 - ((palavras_resumo / palavras_original) * 100)
+        else:
+            reducao_percentual = 0.0
+
+        print("-" * 60)
+        print("📊 IMPACTO DA SUMARIZAÇÃO")
+        print(f"Tamanho Original : {palavras_original} palavras")
+        print(f"Tamanho do Resumo: {palavras_resumo} palavras")
+        print(f"Taxa de Redução  : {reducao_percentual:.1f}% do texto removido")
+        print("-" * 60)
+        print(f"📝 RESUMO FINAL:\n{resumo_final}")
         print("-" * 60 + "\n")
 
 if __name__ == "__main__":
